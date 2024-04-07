@@ -1,0 +1,9 @@
+Run simple python HTTP server
+Port number: 8700
+Serving HTTP on 0.0.0.0 port 8700 (http://0.0.0.0:8700/) ...
+
+Keyboard interrupt received, exiting.
+188.120.225.17 - - [07/Apr/2024 21:59:28] "GET / HTTP/1.1" 200 -
+188.120.225.17 - - [07/Apr/2024 22:00:25] code 404, message File not found
+188.120.225.17 - - [07/Apr/2024 22:00:25] "GET /papka11 HTTP/1.1" 404 -
+176.221.3.240 - - [07/Apr/2024 22:00:57] "GET / HTTP/1.1" 200 -
