@@ -1,0 +1,54 @@
+    1  Apr 03 22:04:54 pwd
+    2  Apr 03 22:05:12 ls -a
+    3  Apr 03 22:06:45 cat .ssh
+    4  Apr 03 22:07:01 sd .ssh
+    5  Apr 03 22:07:06 cd .ssh
+    6  Apr 03 22:07:29 ls -a
+    7  Apr 03 22:08:12 cat authorized_keys
+    8  Apr 03 22:08:47 cd ..
+    9  Apr 03 22:09:31 mkdir papka1
+   10  Apr 03 22:09:39 cd papka1
+   11  Apr 03 22:14:17 C:\User/\bire/\Desk/op\па/�ка kbatrakova@arybin93:~/papka1
+   12  Apr 03 22:16:27 scp  C:/Users/biren/Desktop/папка kbatrakova@arybin93:~/papka1
+   13  Apr 03 22:20:33 scp C:/UsC:/Us-r ers/biren/Desktop/папка kbatrakova@188.120.225.17:/papka1/
+   14  Apr 03 22:33:29 exit
+   15  Apr 03 22:40:10 cd papka1
+   16  Apr 03 22:40:20 ls
+   17  Apr 03 22:41:23 mkdir papka2
+   18  Apr 03 22:43:43 cat run_http_server.sh
+   19  Apr 03 22:45:29 chmod -x run_http_server.sh
+   20  Apr 03 22:46:24 ls
+   21  Apr 03 23:09:58 bash run_http_server.sh
+   22  Apr 07 20:08:54 pwd
+   23  Apr 07 20:09:00 ls
+   24  Apr 07 20:09:54 cd papka1
+   25  Apr 07 20:09:56 ls
+   26  Apr 07 20:10:48 bash run_http_server.sh
+   27  Apr 07 20:13:05 ls
+   28  Apr 07 20:13:28 bash run_http_server.sh 
+   29  Apr 07 20:14:15 nano run_http_server.sh 
+   30  Apr 07 20:17:38 cat run_http_server.sh 
+   31  Apr 07 20:18:26 nano run_http_server.sh 
+   32  Apr 07 20:19:04 cat run_http_server.sh 
+   33  Apr 07 20:22:14 ps -la
+   34  Apr 07 20:36:12 nano run_http_server.sh 
+   35  Apr 07 21:11:15 bash run_http_server.sh 
+   36  Apr 07 21:11:58 nano run_http_server.sh 
+   37  Apr 07 21:12:54 bash run_http_server.sh 
+   38  Apr 07 21:16:58 ch run_http_server.sh ~> log
+   39  Apr 07 21:17:42 sh run_http_server.sh &> log
+   40  Apr 07 20:24:49 ps -la
+   41  Apr 07 21:13:47 kill 77247
+   42  Apr 07 21:14:03 ps -la
+   43  Apr 07 21:18:30 cat log
+   44  Apr 07 21:18:41 cd папка
+   45  Apr 07 21:19:05 cd papka1
+   46  Apr 07 21:19:11 cat log
+   47  Apr 07 21:58:20 cd papka1
+   48  Apr 07 21:58:30 ls
+   49  Apr 07 21:58:44 cat log
+   50  Apr 07 21:59:28 curl 188.120.225.17:8700
+   51  Apr 07 22:00:25 curl 188.120.225.17:8700/papka11
+   52  Apr 07 22:00:32 cat log
+   53  Apr 07 22:01:50 touch histor
+   54  Apr 07 22:02:10 history > histor
